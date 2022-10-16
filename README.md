@@ -6,4 +6,8 @@ It uses cars built in Blender as 3D models, then exported to tif, with alpha cha
 
 HTML, CSS
 
+Screenshot:
+
+![racecars screenshot](https://www.dalesmith.com/temp/racecars_screenshot.png)
+
 [View Demo](https://www.dalesmith.com/racecars)
